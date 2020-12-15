@@ -1,0 +1,15 @@
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\DataProxy.deps.json
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\DataProxy.runtimeconfig.json
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\DataProxy.runtimeconfig.dev.json
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\DataProxy.dll
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\DataProxy.pdb
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.csprojAssemblyReference.cache
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.AssemblyInfoInputs.cache
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.AssemblyInfo.cs
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.csproj.CoreCompileInputs.cache
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.csproj.CopyComplete
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.dll
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.pdb
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\DataProxy.genruntimeconfig.cache

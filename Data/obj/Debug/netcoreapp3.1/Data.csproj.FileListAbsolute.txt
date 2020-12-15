@@ -1,0 +1,15 @@
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\butna\source\repos\ApiServer\Data\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\butna\source\repos\ApiServer\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
